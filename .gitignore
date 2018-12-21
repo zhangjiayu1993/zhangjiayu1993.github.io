@@ -1,6 +1,8 @@
 .DS_Store
+Thumbs.db
+db.json
+*.log
 node_modules/
-dist/
-npm-debug.log
-example.html
-.idea
+public/
+.deploy*/
+.idea*/
